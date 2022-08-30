@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "2.4_inch_OLED")(type "KiCad")(uri "${KIPRJMOD}/lib/custom/2.4_inch_OLED.kicad_sym")(options "")(descr ""))
+  (lib (name "custom")(type "KiCad")(uri "${KIPRJMOD}/lib/custom.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+[submodule "pcb/mekko5X/lib/keyswitches.pretty"]
+	path = pcb/mekko5X/lib/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty.git
+[submodule "pcb/mekko5X/lib/KiCad-RP-Pico"]
+	path = pcb/mekko5X/lib/KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico.git
