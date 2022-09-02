@@ -19,7 +19,7 @@
       )
     )
     (symbol "SSD1309_1_1"
-      (pin output line (at -10.16 7.62 180) (length 2.54)
+      (pin input line (at -10.16 7.62 180) (length 2.54)
         (name "vss" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
