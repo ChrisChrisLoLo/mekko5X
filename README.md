@@ -13,8 +13,7 @@ Pre-prototyping phase. Playing around with OLED drivers, and will look into how 
 - 2 Rotary encoders
 - 2 Oled displays on a SPI bus
 - 4x10 matrix
-- Powered by a RP2040
-- 
+- Powered by an RP2040
 
 ## Acknowledgements
 Big thank you to [PCBWay](https://www.pcbway.com/) for greenlighting and sponsoring a project such as this! Overtime, I've come to appretiate the quality of the silkscreen and soldermask boards I get from PCBWay, and would strongly consider them if I had to sell or give a quality PCB to a friend or and customer. PCBWay has also given back to the community by supporting projects like these, so I strongly recommend them if you're looking to make a board for yourself!
