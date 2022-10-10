@@ -1,6 +1,6 @@
 # mekko5X
 
-<img src="https://raw.githubusercontent.com/ChrisChrisLoLo/mekko5X/blob/main/images/PXL_20221010_015452181.jpg width="500">
+<img src="https://raw.githubusercontent.com/ChrisChrisLoLo/mekko5X/blob/main/images/PXL_20221010_015452181.jpg" width="500">
 
 Part cyberdeck, part ortholinear. With 2 knobs and 2 large OLED displays, this keyboard can be used for animations, displaying information, or for controlling a GUI. The small form factor makes the board a unique ortholinear keyboard, or a powerful macropad. It could also double as a MIDI controller!
 
