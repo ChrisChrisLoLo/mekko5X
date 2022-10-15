@@ -7,7 +7,7 @@ Part cyberdeck, part ortholinear. With 2 knobs and 2 large OLED displays, this k
 Powered by a Raspberry Pi Pico, this keyboard should have more than enough space and power for any kind of firmware you have in mind!
 
 ## Status
-Pre-prototyping phase. Playing around with setting up the OLED drivers, and will look into how to get it working with QMK. Testing pending. Copy and build if you're sure you know what you're doing.
+Pre-prototyping phase. Playing around with setting up the OLED drivers, and will look into how to get it working with QMK. Testing pending. Copy and build if you're sure you know what you're doing. BYOL firmware.
 
 ## Features
 - 2 Rotary encoders
